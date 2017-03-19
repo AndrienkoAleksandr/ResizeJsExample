@@ -1,0 +1,18 @@
+@CHARSET "UTF-8";
+
+#resizable-container {
+  position: relative;
+  float: left;
+  overflow: hidden;
+/*   background: blue;
+  height: 200px;
+  width: 200px; */
+}
+
+#terminal-container {
+  /*   position: relative;
+  overflow: hidden; */
+  background: green;
+  height: 200px;
+  width: 200px;
+}
